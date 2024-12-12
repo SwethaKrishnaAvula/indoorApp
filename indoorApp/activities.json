@@ -16,7 +16,7 @@
       "activityDescription": "Grab a book from the nearest library or bookstore, and read it. Let yourself sink into the pages, leaving behind the world around you as you dive into a new one.",
       "activityItems": ["Book", "Coffee", "Cozy spot"],
       "website": "https://www.rd.com/list/books-read-before-die/",
-      "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/read.jpg"
+      "image": "https://raw.githubusercontent.com/SwethaKrishnaAvula/indoorApp/refs/heads/main/indoorApp/read.jpg"
     },
     {
       "activityIndex" : "3",
@@ -25,7 +25,7 @@
       "activityDescription": "Try solving online puzzles or if you like the physical ones, try solving a simple cartoon puzzle. There’s something satisfying about finding that one piece that fits perfectly, clicking it into place, and watching the scene come to life bit by bit.",
       "activityItems": ["Puzzle", "Table", "Patience ;)"],
       "website": "https://www.jigsawplanet.com/",
-      "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/puzzle.jpg"
+      "image": "https://raw.githubusercontent.com/SwethaKrishnaAvula/indoorApp/refs/heads/main/indoorApp/puzzle.jpg"
     },
     {
       "activityIndex" : "4",
@@ -34,7 +34,7 @@
       "activityDescription": "Grab some simple flower, or your favorite Disney character Legos, and build it. Let your imagination guide each piece, carefully snapping the blocks together, watching your creation come to life.",
       "activityItems": ["Lego", "Table/plain surface", "Instruction manual"],
       "website": "https://www.lego.com/en-us/themes/adults-welcome/botanical-collection/flower-bouquet?age-gate=grown_up",
-      "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/lego.png"
+      "image": "https://raw.githubusercontent.com/SwethaKrishnaAvula/indoorApp/refs/heads/main/indoorApp/lego.png"
     },
     {
       "activityIndex" : "5",
@@ -43,7 +43,7 @@
       "activityDescription": "Grab some yarn from your nearest craft shop and knit a simple scarf. As you knit, let your mind wander—perhaps to the person who will wear the scarf or the chilly days ahead where it will provide warmth and comfort.",
       "activityItems": ["Yarn", "Knitting needles", "Cozy spot"],
       "website": "https://nimble-needles.com/patterns/how-to-knit-a-scarf-for-beginners/",
-      "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/knit.jpg"
+      "image": "https://raw.githubusercontent.com/SwethaKrishnaAvula/indoorApp/refs/heads/main/indoorApp/knit.jpg"
     }
   ]
 }
