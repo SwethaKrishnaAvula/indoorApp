@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "activityName": "Bake",
+      "level": "Intermediate",
+      "activityDescription": "Make a simple butter cookies, with minimal ingredients and less effort. These cookies need no frosting or extras—they’re simple, satisfying, and perfect for a quick treat or a cozy moment with a cup of tea.",
+      "activityItems": ["Flour", "Sugar", "Butter"],
+      "website": "https://thegardeningfoodie.com/3-ingredient-butter-cookies/",
+      "image": "bake.jpg"
+    },
+    {
+      "activityName": "Read",
+      "level": "Easy",
+      "activityDescription": "Grab a book from the nearest library or bookstore, and read it. Let yourself sink into the pages, leaving behind the world around you as you dive into a new one.",
+      "activityItems": ["Book", "Coffee", "Cozy spot"],
+      "website": "https://www.rd.com/list/books-read-before-die/",
+      "image": "read.jpg"
+    },
+    {
+      "activityName": "Puzzle",
+      "level": "Intermediate",
+      "activityDescription": "Try solving online puzzles or if you like the physical ones, try solving a simple cartoon puzzle. There’s something satisfying about finding that one piece that fits perfectly, clicking it into place, and watching the scene come to life bit by bit.",
+      "activityItems": ["Puzzle", "Table", "Patience ;)"],
+      "website": "https://www.jigsawplanet.com/",
+      "image": "puzzle.jpg"
+    },
+    {
+      "activityName": "Lego",
+      "level": "Easy",
+      "activityDescription": "Grab some simple flower, or your favorite Disney character Legos, and build it. Let your imagination guide each piece, carefully snapping the blocks together, watching your creation come to life.",
+      "activityItems": ["Lego", "Table/plain surface", "Instruction manual"],
+      "website": "https://www.lego.com/en-us/themes/adults-welcome/botanical-collection/flower-bouquet?age-gate=grown_up",
+      "image": "lego.png"
+    },
+    {
+      "activityName": "Knit",
+      "level": "Intermediate",
+      "activityDescription": "Grab some yarn from your nearest craft shop and knit a simple scarf. As you knit, let your mind wander—perhaps to the person who will wear the scarf or the chilly days ahead where it will provide warmth and comfort.",
+      "activityItems": ["Yarn", "Knitting needles", "Cozy spot"],
+      "website": "https://nimble-needles.com/patterns/how-to-knit-a-scarf-for-beginners/",
+      "image": "knit.jpg"
+    }
+  ]
+}
