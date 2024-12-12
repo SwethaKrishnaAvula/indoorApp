@@ -1,6 +1,7 @@
 {
   "activities": [
     {
+      "activityIndex" : "1",
       "activityName": "Bake",
       "level": "Intermediate",
       "activityDescription": "Make a simple butter cookies, with minimal ingredients and less effort. These cookies need no frosting or extras—they’re simple, satisfying, and perfect for a quick treat or a cozy moment with a cup of tea.",
@@ -9,6 +10,7 @@
       "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/bake.jpg"
     },
     {
+      "activityIndex" : "2",
       "activityName": "Read",
       "level": "Easy",
       "activityDescription": "Grab a book from the nearest library or bookstore, and read it. Let yourself sink into the pages, leaving behind the world around you as you dive into a new one.",
@@ -17,6 +19,7 @@
       "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/read.jpg"
     },
     {
+      "activityIndex" : "3",
       "activityName": "Puzzle",
       "level": "Intermediate",
       "activityDescription": "Try solving online puzzles or if you like the physical ones, try solving a simple cartoon puzzle. There’s something satisfying about finding that one piece that fits perfectly, clicking it into place, and watching the scene come to life bit by bit.",
@@ -25,6 +28,7 @@
       "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/puzzle.jpg"
     },
     {
+      "activityIndex" : "4",
       "activityName": "Lego",
       "level": "Easy",
       "activityDescription": "Grab some simple flower, or your favorite Disney character Legos, and build it. Let your imagination guide each piece, carefully snapping the blocks together, watching your creation come to life.",
@@ -33,6 +37,7 @@
       "image": "https://github.com/SwethaKrishnaAvula/indoorApp/blob/e422d031d57d8a1b53f76f576d6d8e2a9aee406e/indoorApp/lego.png"
     },
     {
+      "activityIndex" : "5",
       "activityName": "Knit",
       "level": "Intermediate",
       "activityDescription": "Grab some yarn from your nearest craft shop and knit a simple scarf. As you knit, let your mind wander—perhaps to the person who will wear the scarf or the chilly days ahead where it will provide warmth and comfort.",
